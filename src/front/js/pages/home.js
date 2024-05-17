@@ -8,7 +8,7 @@ import { Search } from "./search";
 import { Footer } from "../component/footer";
 import { Recomendaciones } from "./recomendaciones";
 import { Testimoniales } from "./testimoniales";
-import { Chatbot } from "./chatbot";
+// import { Chatbot } from "./chatbot";
 
 
 
